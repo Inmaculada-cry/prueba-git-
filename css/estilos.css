@@ -2,7 +2,9 @@
     max-width: 960px;
     margin: auto;
 }
-
+body {
+    background-color: coral;
+}
 header {
     display: flex;
     justify-content: space-between;
